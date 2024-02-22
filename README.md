@@ -26,6 +26,7 @@ Task 3 - Password Generator
 
         Display the Password: Print the generated password on the screen.
 
+
 Task 4 - Rock Paper Scissors Game
 
         User Input: Prompt the user to choose rock, paper, or scissors.
@@ -45,6 +46,7 @@ Task 4 - Rock Paper Scissors Game
         Play Again: Ask the user if they want to play another round.
 
         User Interface: Design a user-friendly interface with clear instructions and feedback.
+        
 
 Task 5 - Contact Book
 
